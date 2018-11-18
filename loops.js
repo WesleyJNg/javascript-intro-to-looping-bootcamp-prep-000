@@ -4,7 +4,7 @@ function forLoop(array) {
       array.push('I am 1 sstrange loop.');
     }
     else {
-      array.push(`I am ${i.string()} strange loops.`);
+      array.push(`I am ${i.toString()} strange loops.`);
     }
   }
 }
