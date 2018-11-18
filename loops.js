@@ -18,7 +18,7 @@ function whileLoop(n) {
 }
 
 function incrementVariable() {
-  return Math.random () >= 0;
+  i = i + 1;
 }
 
 function doWhileLoop(array) {
